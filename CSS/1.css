@@ -1,0 +1,199 @@
+*{
+    margin:0;
+    
+    padding: 0;
+}
+    body{
+    text-align:center;
+   
+    
+
+}
+#nav{
+    position:fixed;
+    height:40px;
+    Width:100%;
+    z-index:99;
+    background:#5f6854;
+    color:#99a08288;
+    font-family:sans-serif;
+    font-weight:bold;
+
+}
+#nav ul li a{
+    text-decoration:none;
+    color:#99a08288;
+   
+    padding:10px;
+}
+#nav ul li a:hover{
+    color:#5f6854;
+    background:#99a08288;
+}
+#nav ul li{
+    list-style:none;
+    display: flex;
+    display: inline-block;
+    margin: 0px 10px 0px 0px;
+    padding:10px;
+
+
+
+}
+.head{
+    position:relative;
+   
+    background:#99a08288;
+    height:742px;
+    color:#5f6854;
+}
+.heading{
+    display:inline;
+   
+    font-family:'Sacramento',cursive;
+    font-size: 5.625em;
+   position:relative;
+   top:200px;
+   right:160px;
+
+    
+
+    
+}
+.head .img2{
+    
+    width:200px;
+    position:relative;
+    right:800px;
+    bottom:50px;
+   
+}
+.head .img1{
+    position:relative;
+    
+    bottom:150px;
+    left:600px;
+    
+    
+    }
+
+.heading-para{
+    margin-top:10px;
+    font-family: "Sankofa Display", sans-serif;
+    position:relative;
+    top:200px;
+    font-size:300%;
+    right:160px;
+
+}
+.aboutme{
+    background:#606676;
+    height:750px;
+}
+
+ #cat{
+    margin-top:60px;
+ }
+ #code{
+    margin-top:60px;
+ }
+.aboutme div{
+    font-family:sans-serif;
+    margin-top:20px;
+    color:white;
+}
+.aboutme .tech{
+    display:inline;
+    width:40px;
+    margin-top:10px;
+    
+    
+}
+.aboutme h1{
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color:#344955;
+}
+#hobbie1{
+    width:200px;
+    background:white;
+    position:absolute;
+    right:950px;
+
+    
+   
+}
+#hobbie2{
+    width:200px;
+    background:white;
+    position:absolute;
+    left:1040px;
+    top:1800px;
+    z-index:1;
+
+    
+   
+}
+
+
+.end h1{
+    color:white;
+    font-family:sans-serif;
+    position:relative;
+    top:10px;
+    
+
+}
+.end{
+    margin:-22px;
+    height:600px;
+    width:1541px;
+    background: #7752FE;
+    text-align:center;
+}
+.end .first{
+    position:absolute;
+    display:block;
+    width:500px;
+    left:600px;
+    /* border:solid 1px black; */
+   z-index:99;
+   color:white;
+   font-family:cursive;
+   word-spacing: 3px;
+   padding-top:5px;
+   top:1540px;
+    
+
+    
+}
+.end .second{
+    position:absolute;
+    display:block;
+    width:500px;
+    left:500px;
+    /* border:solid 1px black; */
+   z-index:99;
+   color:white;
+   font-family:cursive;
+   word-spacing: 3px;
+   padding-top:5px;
+    
+
+    
+}
+.last{
+    height:100px;
+    background:#678983;
+    color:white;
+    padding-top:10px;
+}
+.last div{
+    font-family:sans-serif;
+    word-spacing: 2px;
+    
+}
+.last img{
+    margin:10px;
+}
+
+
